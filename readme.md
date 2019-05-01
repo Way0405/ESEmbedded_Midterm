@@ -19,3 +19,8 @@
 3. 綠燈恆亮
 4. MCO2 輸出
 5. 附圖
+
+
+#################################################
+第三題因為沒有編輯軟體就沒有再剪裁了
+![圖片參考名稱](https://github.com/Way0405/ESEmbedded_Midterm/blob/master/1.png "pic_embedded_mid")
